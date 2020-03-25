@@ -1,0 +1,48 @@
+usage direction
+
+step 1: cd conda_project/
+
+step 2: 
+source activate py37
+jupyter notebook
+command like npm start
+
+step 3:http://localhost:8888/tree
+
+step 4:
+format text format document (Cleanup)
+https://www.samltool.com/prettyprint.php
+
+-------------------------------
+Use this !
+-------------------------------
+Iteration 2
+
+step 1: cd conda_project/
+
+step 2: 
+source activate py37
+python application.py 
+
+step 3:
+find exported file: jing_vocab.plist
+
+Step 4:
+Remove all acronyms in current machine, and replace with the updated plist
+
+Step 5:
+Restart the machine. or if you are lucky, save and try
+
+
+
+
+
+
+
+
+---------------------------------
+
+Typing Sample
+https://www.purestorage.com/company.html
+https://s21.q4cdn.com/687136699/files/doc_financials/2020/Q4/Earnings-Slides-(Q4-FY20)-2.27.20_3-copy.pdf
+
